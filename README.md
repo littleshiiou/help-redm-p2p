@@ -21,7 +21,7 @@
   <h3 align="center">Aide pour les problèmes du P2P</h3>
 
   <p align="center">
-    Vous trouverez ici le game-storage du jeu qui sera constamment mis à jour.
+    Vous trouverez ici le game-storage du jeu qui sera constamment à jour.
     <br />
     ⚠️ M'avertir si le lien n'est plus valide.
     <br />
