@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <details>
-  <summary>Language</summary>
+  <summary>Languages</summary>
   <ol>
     <li>
       <a href="#tuto-par-little-shiiou">Français</a>
