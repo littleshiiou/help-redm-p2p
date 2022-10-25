@@ -15,6 +15,16 @@
   </p>
 </div>
 
+<details>
+  <summary>Languages</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Français</a>
+      <a href="#tuto-by-little-shiiou">English</a>
+    </li>
+  </ol>
+</details>
+
 ## TUTO BY LITTLE SHIIOU
 
 [![TUTO-YOUTUBE](https://i.imgur.com/qiNlGej.gif)](https://youtu.be/yBmlFk0KUEo)
