@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LittleShiiouDEV/help-redm-p2p">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/ls7ce.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">help with peer-to-peer problems</h3>
