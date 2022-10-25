@@ -19,7 +19,7 @@
 
 ## TUTO BY LITTLE SHIIOU
 
-[![Watch the video](images/logo.png)](https://youtu.be/yBmlFk0KUEo)
+![screenshot](https://i.imgur.com/JKPP1Uc.mp4)
 
 Extract the folder and replace `game-storage` in `RedM Application Data > data` 
 
