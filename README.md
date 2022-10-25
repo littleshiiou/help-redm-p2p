@@ -45,7 +45,7 @@ video disponible https://youtu.be/yBmlFk0KUEo
 
 Little Shiiou - [Notre discord](https://discord.gg/aVZb4emM69)
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Haut page</a></p>
 
 <br />
 <div align="center">
