@@ -23,6 +23,8 @@
   <p align="center">
     Vous trouverez ici le game-storage du jeu qui sera constamment mis à jour.
     <br />
+    ⚠️ M'avertir si le lien n'est plus valide.
+    <br />
     <a href="https://mega.nz/file/88Vg2B4Q">télécharger »</a>
   </p>
 </div>
@@ -56,7 +58,9 @@ Little Shiiou - [Notre discord](https://discord.gg/aVZb4emM69)
   <h3 align="center">Help with P2P problems</h3>
 
   <p align="center">
-    Here you will find the game-storage folder which will be constantly updated
+    Here you will find the game-storage folder which will be constantly updated.
+    <br />
+    ⚠️ Warn me if the link is not valid anymore
     <br />
     <a href="https://mega.nz/file/88Vg2B4Q">download »</a>
   </p>
