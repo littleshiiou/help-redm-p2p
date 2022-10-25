@@ -1,5 +1,17 @@
 <a name="readme-top"></a>
 
+<details>
+  <summary>Language</summary>
+  <ol>
+    <li>
+      <a href="#tuto-par-little-shiiou">Français</a>
+    </li>
+    <li>
+      <a href="#tuto-by-little-shiiou">English</a>
+    </li>
+  </ol>
+</details>
+
 <br />
 <div align="center">
   <a href="https://github.com/LittleShiiouDEV/help-redm-p2p">
@@ -14,16 +26,6 @@
     <a href="https://mega.nz/file/88Vg2B4Q">download »</a>
   </p>
 </div>
-
-<details>
-  <summary>Languages</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Français</a>
-      <a href="#tuto-by-little-shiiou">English</a>
-    </li>
-  </ol>
-</details>
 
 ## TUTO BY LITTLE SHIIOU
 
