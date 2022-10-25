@@ -19,7 +19,7 @@
 
 ## TUTO BY LITTLE SHIIOU
 
-![screenshot](https://i.imgur.com/JKPP1Uc.gif)
+![product-screenshot](https://i.imgur.com/JKPP1Uc.gif)
 
 Extract the folder and replace `game-storage` in `RedM Application Data > data` 
 
@@ -30,5 +30,3 @@ Extract the folder and replace `game-storage` in `RedM Application Data > data`
 Little Shiiou - [Our discord](https://discord.gg/aVZb4emM69)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
-
-[product-screenshot]: images/screenshot.gif
