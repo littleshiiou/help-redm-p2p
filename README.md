@@ -38,7 +38,7 @@ Télécharger le fichier via ce [lien](https://mega.nz/file/88Vg2B4Q) et ouvrez 
 `🔑 fkTXdRFXyuNnhTOv0TVOkhNyQ3sjeDLNkQXvhQTJ1_A`
 <br>
 <br>
-Extraire le dossier et remplace `game-storage` dans `RedM Application Data > data`
+Extraire le dossier et remplace **game-storage** dans `RedM Application Data` **>** `data`
 <br>
 <br>
 video disponible https://youtu.be/yBmlFk0KUEo
