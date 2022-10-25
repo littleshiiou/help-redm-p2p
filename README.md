@@ -11,7 +11,7 @@
   <p align="center">
     Here you will find the game-storage folder which will be constantly updated
     <br />
-    <a href="https://github.com/LittleShiiouDEV/help-redm-p2p/game-storage">download</a>
+    <a href="https://mega.nz/file/88Vg2B4Q">download</a>
     ·
     <a href="#about-the-project">tutorial</a>
   </p>
