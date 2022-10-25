@@ -19,7 +19,7 @@
 
 ## TUTO BY LITTLE SHIIOU
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Watch the video](https://img.youtube.com/vi/yBmlFk0KUEo/maxresdefault.jpg)](https://youtu.be/yBmlFk0KUEo)
 
 Extract the folder and replace `game-storage` in `RedM Application Data > data` 
 
