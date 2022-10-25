@@ -27,7 +27,7 @@ Download the file [here](https://mega.nz/file/88Vg2B4Q) and open with [winrar](h
 Extract the folder and replace `game-storage` in `RedM Application Data > data`
 <br>
 <br>
-tuto on youtube https://youtu.be/yBmlFk0KUEo
+https://youtu.be/yBmlFk0KUEo
 
 ## Contact
 
