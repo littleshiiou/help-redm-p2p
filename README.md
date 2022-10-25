@@ -75,7 +75,7 @@ Download the file this [link](https://mega.nz/file/88Vg2B4Q) and open with [winr
 `🔑 fkTXdRFXyuNnhTOv0TVOkhNyQ3sjeDLNkQXvhQTJ1_A`
 <br>
 <br>
-Extract the folder and replace `game-storage` in `RedM Application Data > data`
+Extract the folder and replace **game-storage** in `RedM Application Data` **>** `data`
 <br>
 <br>
 video available https://youtu.be/yBmlFk0KUEo
