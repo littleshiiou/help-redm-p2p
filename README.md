@@ -1,17 +1,7 @@
 <a name="readme-top"></a>
-
-<details>
-  <summary>Languages</summary>
-  <ol>
-    <li>
-      <a href="#tuto-par-little-shiiou">Français</a>
-    </li>
-    <li>
-      <a href="#tuto-by-little-shiiou">English</a>
-    </li>
-  </ol>
-</details>
-
+<a href="#tuto-par-little-shiiou">Français</a>
+.
+<a href="#tuto-by-little-shiiou">English</a>
 <br />
 <div align="center">
   <a href="https://github.com/LittleShiiouDEV/help-redm-p2p">
