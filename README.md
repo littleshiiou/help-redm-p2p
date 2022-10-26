@@ -55,6 +55,7 @@ Little Shiiou - [Notre discord](https://discord.gg/aVZb4emM69)
 </div>
 
 ## TUTO BY LITTLE SHIIOU
+video available https://youtu.be/yBmlFk0KUEo
 
 [![TUTO-YOUTUBE](https://i.imgur.com/qiNlGej.gif)](https://youtu.be/yBmlFk0KUEo)
 
@@ -64,9 +65,6 @@ Download the file this [link](https://mega.nz/file/88Vg2B4Q) and open with [winr
 <br>
 <br>
 Extract the folder and replace `game-storage` in `RedM Application Data` **>** `data`
-<br>
-<br>
-video available https://youtu.be/yBmlFk0KUEo
 
 ## Discord
 
