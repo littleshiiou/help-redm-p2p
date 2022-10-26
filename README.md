@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <a href="#tuto-par-little-shiiou">Français</a>
-.
+・
 <a href="#tuto-by-little-shiiou">English</a>
 <br />
 <div align="center">
