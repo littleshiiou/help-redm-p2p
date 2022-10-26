@@ -20,6 +20,7 @@
 </div>
 
 ## TUTO PAR LITTLE SHIIOU
+video disponible https://youtu.be/yBmlFk0KUEo
 
 [![TUTO-YOUTUBE](https://i.imgur.com/qiNlGej.gif)](https://youtu.be/yBmlFk0KUEo)
 
@@ -29,9 +30,6 @@ Télécharger le fichier via ce [lien](https://mega.nz/file/88Vg2B4Q) et ouvrez 
 <br>
 <br>
 Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>** `data`
-<br>
-<br>
-video disponible https://youtu.be/yBmlFk0KUEo
 
 ## Discord
 
