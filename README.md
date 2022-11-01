@@ -26,8 +26,6 @@ video disponible https://youtu.be/yBmlFk0KUEo
 
 Télécharger le fichier via ce [lien](https://drive.google.com/file/d/1YPuDH90fLA5K4i_5J1qwFNG9Rh1MkAoL/view?usp=share_link) et ouvrez le avec [winrar](https://www.win-rar.com/predownload.html?&L=10)
 <br>
-`🔑 fkTXdRFXyuNnhTOv0TVOkhNyQ3sjeDLNkQXvhQTJ1_A`
-<br>
 <br>
 Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>** `data`
 
@@ -60,8 +58,6 @@ video available https://youtu.be/yBmlFk0KUEo
 [![TUTO-YOUTUBE](https://i.imgur.com/qiNlGej.gif)](https://youtu.be/yBmlFk0KUEo)
 
 Download the file this [link](https://drive.google.com/file/d/1YPuDH90fLA5K4i_5J1qwFNG9Rh1MkAoL/view?usp=share_link) and open with [winrar](https://www.win-rar.com/predownload.html?&L=10)
-<br>
-`🔑 fkTXdRFXyuNnhTOv0TVOkhNyQ3sjeDLNkQXvhQTJ1_A`
 <br>
 <br>
 Extract the folder and replace `game-storage` in `RedM Application Data` **>** `data`
