@@ -29,10 +29,6 @@ Télécharger le fichier via ce [lien](https://drive.google.com/file/d/1YPuDH90f
 <br>
 Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>** `data`
 
-## Discord
-
-Little Shiiou - [Notre discord](https://discord.gg/aVZb4emM69)
-
 <p align="right"><a href="#readme-top">Haut page</a></p>
 
 <br />
@@ -61,9 +57,5 @@ Download the file this [link](https://drive.google.com/file/d/1YPuDH90fLA5K4i_5J
 <br>
 <br>
 Extract the folder and replace `game-storage` in `RedM Application Data` **>** `data`
-
-## Discord
-
-Little Shiiou - [Our discord](https://discord.gg/aVZb4emM69)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
