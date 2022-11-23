@@ -2,6 +2,8 @@
 <a href="#aide-pour-les-problèmes-du-p2p">Français</a>
 ・
 <a href="#help-with-p2p-problems">English</a>
+
+----
 <br />
 <div align="center">
   <a href="https://github.com/LittleShiiouDEV/help-redm-p2p">
