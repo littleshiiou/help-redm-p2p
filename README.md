@@ -8,7 +8,7 @@
     <img src="images/ls7ce.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Aide pour les problèmes du P2P</h3>
+  <h3 align="center">Aide pour les problèmes du P2P <p align="right"><a href="#readme-top">Haut page</a></p></h3>
 
   <p align="center">
     Vous trouverez ici le game-storage du jeu qui sera constamment à jour.
@@ -45,8 +45,6 @@ Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>*
     <a href="https://drive.google.com/file/d/1YPuDH90fLA5K4i_5J1qwFNG9Rh1MkAoL/view?usp=share_link">download »</a>
   </p>
 </div>
-
-<p align="right"><a href="#readme-top">Haut page</a></p>
 
 ## TUTO BY LITTLE SHIIOU
 video available https://youtu.be/yBmlFk0KUEo
