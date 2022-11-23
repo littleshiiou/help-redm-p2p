@@ -31,7 +31,7 @@ Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>*
 
 ----
 <p align="right"><a href="#readme-top">Haut page</a></p>
-
+----
 <br />
 
 <div align="center">
@@ -60,4 +60,5 @@ Download the file this [link](https://drive.google.com/file/d/1YPuDH90fLA5K4i_5J
 <br>
 Extract the folder and replace `game-storage` in `RedM Application Data` **>** `data`
 
+----
 <p align="right"><a href="#readme-top">back to top</a></p>
