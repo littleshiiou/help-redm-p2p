@@ -30,7 +30,7 @@ Télécharger le fichier via ce [lien](https://drive.google.com/file/d/1YPuDH90f
 Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>** `data`
 
 ----
-<p align="right"><a href="#readme-top">Haut page</a></p>
+<p align="center"><a href="#readme-top">Haut page</a></p>
 
 ----
 <br />
