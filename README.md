@@ -10,7 +10,7 @@
     <img src="images/ls7ce.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Aide pour les problèmes du P2P</h3>
+  <h3 align="center">Aide pour les problèmes du P2P de RedM</h3>
 
   <p align="center">
     Vous trouverez ici le game-storage du jeu qui sera constamment à jour.
@@ -42,7 +42,7 @@ Extraire le dossier et remplace `game-storage` dans `RedM Application Data` **>*
     <img src="images/ls7ce.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Help with P2P problems</h3>
+  <h3 align="center">Help with P2P problems of RedM</h3>
 
   <p align="center">
     Here you will find the game-storage folder which will be constantly updated.
