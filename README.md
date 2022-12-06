@@ -66,9 +66,3 @@ Extract the folder and replace `game-storage` in `RedM Application Data` **>** `
 ----
 
 <p align="center"><a href="#readme-top">Back To Top</a></p>
-
-----
-
-<div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge"/>  
-</div>
